@@ -1,0 +1,11 @@
+Model Information:
+* title:	female character
+* source:	https://sketchfab.com/3d-models/female-character-256960dd42a143d1bae1f6a8de85547f
+* author:	ganash3691 (https://sketchfab.com/ganash3691)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "female character" (https://sketchfab.com/3d-models/female-character-256960dd42a143d1bae1f6a8de85547f) by ganash3691 (https://sketchfab.com/ganash3691) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
