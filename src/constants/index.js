@@ -103,8 +103,7 @@ export const projects = [
   {
     name: "AWS Academy Graduate - AWS Academy Cloud Architecting",
     description:
-      "AWS Cloud Architecture certification signifies mastery in designing scalable and reliable cloud solutions. It demonstrates expertise in utilizing AWS services to create robust, cost-effective, and highly available architectures. Holders of this certification are adept in optimizing cloud resources for diverse business needs, showcasing advanced proficiency in AWS cloud architecture.",
-    tags: [
+      "AWS Cloud Architecture certification signifies mastery in designing scalable and reliable cloud solutions."
       { name: "aws", color: "blue-text-gradient" },
       { name: "cloud", color: "green-text-gradient" },
       
@@ -115,7 +114,7 @@ export const projects = [
   {
     name: "Meta Frontend proffesional certification|INTRODUCTION TO FRONTEND DEVELOPMENT|",
     description:
-      "The 'Introduction to Front-End Development' course is the first step in a nine-course Professional Certification program. It teaches essential web development skills like HTML, CSS, and JavaScript for creating interactive web pages. This course lays the groundwork for a deeper understanding of front-end development in the subsequent courses.",
+      "The 'Introduction to Front-End Development' course is the first step in a nine-course Professional Certification program..",
     tags: [
       { name: "html", color: "blue-text-gradient" },
       { name: "CSS", color: "green-text-gradient" },
@@ -127,7 +126,7 @@ export const projects = [
   {
     name: "Meta Frontend proffesional certification | PROGRAMMING WITH JAVASCRIPT",
     description:
-    "Completing the second course, 'Programming with JavaScript,' in the nine-course Professional Certification demonstrates proficiency in JavaScript programming. Learners gain a solid foundation in the language, covering topics from basic syntax to advanced concepts like closures and asynchronous programming. This course equips individuals with the skills to build dynamic and interactive web applications, making it an essential step towards becoming a well-rounded professional in web development.",
+    "Completing the second course, 'Programming with JavaScript,' in the nine-course Professional Certification demonstrates proficiency in JavaScript programming",
     tags: [
       { name: "Javascript", color: "blue-text-gradient" },
     ],
@@ -137,8 +136,7 @@ export const projects = [
   {
     name: "Meta Frontend proffesional certification |VERSION CONTROL",
     description:
-      "Completing the third course on version control in the nine-course professional certification demonstrates a comprehensive understanding of managing code repositories effectively. Participants gain proficiency in tools like Git and platforms like GitHub, enabling seamless collaboration, tracking changes, and ensuring code integrity. This course equips learners with essential skills for version control, a crucial aspect of modern software development workflows, making them adept at managing codebase evolution in a professional setting.",
-    tags: [
+      "Completing the third course on version control in the nine-course professional certification demonstrates a comprehensive underst",
       { name: "Version-control", color: "blue-text-gradient" },
       { name: "Git", color: "green-text-gradient" },
     ],
@@ -148,7 +146,7 @@ export const projects = [
   {
     name: "Meta Frontend proffesional certification |HTML & CSS in depth",
     description:
-      "Completing the fourth course, 'HTML and CSS in Depth', in the nine-course professional certification demonstrates a comprehensive understanding of front-end web development. This course delves deeply into the fundamentals of HTML and CSS, empowering learners to craft sophisticated and visually appealing web pages. Participants gain expertise in structuring content with HTML and styling it with CSS, enabling them to create seamless user experiences. By mastering these core technologies, individuals are equipped to build interactive, dynamic websites with precision and finesse.",
+      "Completing the fourth course, 'HTML and CSS in Depth', in the nine-course professional individuals are equipped to build interactive, dynamic n and finesse.",
     tags: [
       { name: "HTML", color: "blue-text-gradient" },
       { name: "CSS", color: "green-text-gradient" },
