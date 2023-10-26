@@ -138,6 +138,7 @@ export const projects = [
     name: "Meta Frontend proffesional certification |VERSION CONTROL",
     description:
       "Completing the third course on version control in the nine-course professional certification demonstrates a comprehensive underst",
+    tags: [
       { name: "Version-control", color: "blue-text-gradient" },
       { name: "Git", color: "green-text-gradient" },
     ],
