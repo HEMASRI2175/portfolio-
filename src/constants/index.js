@@ -103,7 +103,7 @@ export const projects = [
   {
     name: "AWS Academy Graduate - AWS Academy Cloud Architecting",
     description:
-      "AWS Cloud Architecture certification signifies mastery in designing scalable and reliable cloud solutions."
+      "AWS Cloud Architecture certification signifies mastery in designing scalable and reliable cloud solutions.",
       { name: "aws", color: "blue-text-gradient" },
       { name: "cloud", color: "green-text-gradient" },
       
