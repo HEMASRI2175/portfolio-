@@ -92,7 +92,7 @@ export const projects = [
   {
     name: "AWS Academy Graduate - AWS Academy Cloud Foundations",
     description:
-    "With the AWS Cloud Foundations certification, I have demonstrated proficiency in essential cloud concepts, enabling me to contribute effectively to cloud-based projects. This achievement reinforces my commitment to staying at the forefront of cloud technology trends, ensuring that I am equipped to tackle the most complex cloud challenges.",
+    "With the AWS Cloud Foundations certification, I have demonstrated proficiency in essential cloud concepts, enabling me to contribute effectively to cloud-based projects.  I am equipped to tackle the most complex cloud challenges.",
     tags: [
       { name: "aws", color: "blue-text-gradient" },
       { name: "cloud", color: "green-text-gradient" },
