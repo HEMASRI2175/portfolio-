@@ -147,7 +147,7 @@ const Contact = () => {
       <motion.div variants={slideIn("right", "tween", 0.2, 1)} className="xl:flex-1 xl:h-auto md:h-[550px] h-[350px]">
         <EarthCanvas />
       </motion.div>
-      <h5 className="text-gray-500 text-sm absolute bottom-3 left-0">
+      <h5 className="text-gray-500 text-sm absolute top -3 bottom-3 left-2">
 
       if you encounter any challenges or have any concerns with this, please feel free to reach out. Your feedback is valued. don't hesitate to contact me via email at chettimchettyhemasri@gmail.com. thank you.
     </h5>
